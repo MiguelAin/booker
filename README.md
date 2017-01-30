@@ -1,6 +1,6 @@
-# Booker 
-A ver small library with my current read list.
-For now books are added with pdf format, either images or text,
+###### Booker 
+A very small library with my current read list.
+For now, books are added with pdf format, either images or text,
 please feel free to add your recomendations or to have this page
 as storage for your own read-list.
 
